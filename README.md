@@ -68,4 +68,4 @@ If you found this project interesting, feel free to connect:
 
 LinkedIn: https://www.linkedin.com/in/chaitanya-durke-601436290/
 
-GitHub: 
+GitHub: https://github.com/ChaitanyaDurke
